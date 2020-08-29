@@ -7,7 +7,7 @@
 # Trim Size Calculator
 ## https://docs.google.com/spreadsheets/d/1ULgbmX6FaazqyyX0w0_2ZR5qQOy2lwurB2Jd5SInWuo/edit#gid=1347034323
 
-![](https://docs.google.com/spreadsheets/d/1ULgbmX6FaazqyyX0w0_2ZR5qQOy2lwurB2Jd5SInWuo/edit#gid=1347034323)
+https://docs.google.com/spreadsheets/d/1ULgbmX6FaazqyyX0w0_2ZR5qQOy2lwurB2Jd5SInWuo/edit#gid=1347034323
 
 # https://kdp.amazon.com/en_US/help/topic/G201953020
 
