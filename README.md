@@ -6,3 +6,5 @@
 
 # Trim Size Calculator
 ## https://docs.google.com/spreadsheets/d/1ULgbmX6FaazqyyX0w0_2ZR5qQOy2lwurB2Jd5SInWuo/edit#gid=1347034323
+
+![](https://docs.google.com/spreadsheets/d/1ULgbmX6FaazqyyX0w0_2ZR5qQOy2lwurB2Jd5SInWuo/edit#gid=1347034323)
