@@ -12,3 +12,7 @@ https://docs.google.com/spreadsheets/d/1ULgbmX6FaazqyyX0w0_2ZR5qQOy2lwurB2Jd5SIn
 # https://kdp.amazon.com/en_US/help/topic/G201953020
 
 ![](https://m.media-amazon.com/images/G/01/kindle-publication/File_Calculation_EN.PNG)
+
+
+
+![](https://m.media-amazon.com/images/G/01/kindle-publication/Interior_bleed_layout.PNG)
